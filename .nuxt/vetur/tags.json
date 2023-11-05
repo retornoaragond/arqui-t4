@@ -1,0 +1,11 @@
+{
+  "FooterView": {
+    "description": "Auto imported from components/global/FooterView.vue"
+  },
+  "HeaderView": {
+    "description": "Auto imported from components/global/HeaderView.vue"
+  },
+  "Utteranc": {
+    "description": "Auto imported from components/global/utteranc.vue"
+  }
+}
